@@ -1,0 +1,12 @@
+=== SENSOR DATA RESULTS ===
+Temperature: mean=24.9941335034686, min=6.156082067, max=44.23356139
+Distance: mean=124.46826942944399, min=50.00853254, max=199.9940823
+Battery: mean=55.305531716751005, min=10.03341466, max=99.99695748
+Humidity: mean=49.644744185071005, min=20.00598363, max=79.99522669
+Time of max temperature: 01-09-2025 13:48
+Battery <30% count: 2215
+
+=== ROBOT PATH RESULTS ===
+Total distance traveled: 26549.342533860818
+Farthest point from origin: (x=-38.0, y=-334.0), distance=336.1547262794322
+Revisited positions?: True
